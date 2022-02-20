@@ -1,6 +1,7 @@
 ## Welcome to Tuan Wang's site
 
-You can use the [<span style="color: green"><ins>**editor on GitHub**</ins></span>](https://github.com/wangt3/wangt3.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the <a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+ to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
